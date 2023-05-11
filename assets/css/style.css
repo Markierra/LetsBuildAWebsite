@@ -1,1 +1,13 @@
-/*wait why is this empty? */
+body {
+    background-color: pink;
+    font-family: georgia;
+}
+
+#main {
+    color: black; 
+}
+
+#name {
+    color: pink;
+    
+}
